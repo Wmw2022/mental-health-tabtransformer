@@ -1,0 +1,19 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Environments
+.env
+.venv/
+env/
+build/
+
+# Data & Outputs
+src/data/*
+!src/data/README.md
+outputs/*
+
+# OS
+.DS_Store
+Thumbs.db

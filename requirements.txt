@@ -1,0 +1,11 @@
+
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+imblearn>=0.13
+matplotlib>=3.9
+torch>=2.3
+torchvision>=0.18
+torch-geometric>=2.5
+xgboost>=2.0
+openpyxl>=3.1
